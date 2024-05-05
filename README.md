@@ -2,10 +2,10 @@
 React Task Manager is a simple web application that helps you manage your tasks efficiently. It's built using React, Redux, and React Toastify for notifications.
 
 # Features
-Add tasks with ease
-Remove tasks when they're done
-Check off completed tasks
-Get notifications for task actions
+-> Add tasks with ease
+-> Remove tasks when they're done
+-> Check off completed tasks
+-> Get notifications for task actions
 
 # How to Use
 1. Clone the Repository: Download the project files to your computer by running this command in your terminal:
