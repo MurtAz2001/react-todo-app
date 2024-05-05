@@ -1,8 +1,26 @@
-# React + Vite
+# React Task Manager
+React Task Manager is a simple web application that helps you manage your tasks efficiently. It's built using React, Redux, and React Toastify for notifications.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Features
+Add tasks with ease
+Remove tasks when they're done
+Check off completed tasks
+Get notifications for task actions
 
-Currently, two official plugins are available:
+# How to Use
+1. Clone the Repository: Download the project files to your computer by running this command in your terminal:
+git clone <repository-url>
+2. Install Dependencies: Navigate to the project directory and install the necessary dependencies:
+cd react-task-manager
+npm install
+3. Start the App: Launch the development server to run the app locally:
+npm start
+4. Open in Browser: Go to http://localhost:3000 in your web browser to access the application.
+5. Add Tasks: Use the input field to add new tasks. Hit Enter or click "Add Task" to save them.
+6. Manage Tasks: Click on a task to mark it as completed. Use the "Delete" button to remove unwanted tasks.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Dependencies
+React
+React Redux
+Redux
+React Toastify
